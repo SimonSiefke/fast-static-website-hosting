@@ -1,17 +1,23 @@
 {
   "github-pages": {
     "url": "https://simonsiefke.github.io/fast-static-website-hosting/index.html",
-    "load-time": "20-36ms",
-    "first-contentful-paint": "0.8s"
+    "loadTime": "20-36ms",
+    "lighthouseFirstContentfulPaint": "0.8s",
+    "webpageTestFirstByte": "0.175s",
+    "webpageTestFirstContentfulPaint": "0.247s"
   },
   "netlify": {
     "url": "https://distracted-rosalind-dcd883.netlify.app/",
-    "load-time": "21-24ms",
-    "first-contentful-paint": "0.8s"
+    "loadTime": "21-24ms",
+    "lighthouseFirstContentfulPaint": "0.8s",
+    "webpageTestFirstByte": "0.333s",
+    "webpageTestFirstContentfulPaint": "0.414s"
   },
   "firebase": {
     "url": "https://fir-static-hosting-e54b1.web.app/",
-    "load-time": "19-21ms",
-    "first-contentful-paint": "0.8s"
+    "loadTime": "19-21ms",
+    "lighthouseFirstContentfulPaint": "0.8s",
+    "webpageTestFirstByte": "0.531s",
+    "webpageTestFirstContentfulPaint": "0.600s"
   }
 }

@@ -4,10 +4,18 @@
 
 The url of the website
 
-### load-time
+### loadTime
 
 Measures load time with firefox devtools
 
-### first-contentful-paint
+### lightHouseFirstContentfulPaint
 
 Measured metric with lighthouse audit (chrome)
+
+### webpageTestFirstByte
+
+Measured metric with webpagetest.org
+
+### webpageTestFirstContentfulPaint
+
+Measured metric with webpagetest.org
