@@ -1,0 +1,17 @@
+{
+  "github-pages": {
+    "url": "https://simonsiefke.github.io/fast-static-website-hosting/index.html",
+    "load-time": "20-36ms",
+    "first-contentful-paint": "0.8s"
+  },
+  "netlify": {
+    "url": "https://distracted-rosalind-dcd883.netlify.app/",
+    "load-time": "21-24ms",
+    "first-contentful-paint": "0.8s"
+  },
+  "firebase": {
+    "url": "https://fir-static-hosting-e54b1.web.app/",
+    "load-time": "19-21ms",
+    "first-contentful-paint": "0.8s"
+  }
+}
