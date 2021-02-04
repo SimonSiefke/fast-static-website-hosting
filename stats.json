@@ -4,20 +4,53 @@
     "loadTime": "20-36ms",
     "lighthouseFirstContentfulPaint": "0.8s",
     "webpageTestFirstByte": "0.175s",
-    "webpageTestFirstContentfulPaint": "0.247s"
+    "webpageTestFirstContentfulPaint": "0.247s",
+    "ab": {
+      "50%": "142",
+      "66%": "151",
+      "75%": "155",
+      "80%": "157",
+      "90%": "164",
+      "95%": "234",
+      "98%": "239",
+      "99%": "316",
+      "100%": "316"
+    }
   },
   "netlify": {
     "url": "https://distracted-rosalind-dcd883.netlify.app/",
     "loadTime": "21-24ms",
     "lighthouseFirstContentfulPaint": "0.8s",
     "webpageTestFirstByte": "0.333s",
-    "webpageTestFirstContentfulPaint": "0.414s"
+    "webpageTestFirstContentfulPaint": "0.414s",
+    "ab": {
+      "50%": "210",
+      "66%": "213",
+      "75%": "227",
+      "80%": "228",
+      "90%": "275",
+      "95%": "367",
+      "98%": "394",
+      "99%": "471",
+      "100%": "471"
+    }
   },
   "firebase": {
     "url": "https://fir-static-hosting-e54b1.web.app/",
     "loadTime": "19-21ms",
     "lighthouseFirstContentfulPaint": "0.8s",
     "webpageTestFirstByte": "0.531s",
-    "webpageTestFirstContentfulPaint": "0.600s"
+    "webpageTestFirstContentfulPaint": "0.600s",
+    "ab": {
+      "50%": "142",
+      "66%": "148",
+      "75%": "150",
+      "80%": "155",
+      "90%": "278",
+      "95%": "282",
+      "98%": "287",
+      "99%": "545",
+      "100%": "545"
+    }
   }
 }

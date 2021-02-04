@@ -19,3 +19,7 @@ Measured metric with webpagetest.org
 ### webpageTestFirstContentfulPaint
 
 Measured metric with webpagetest.org
+
+## ab
+
+Measure with apache benchmark: `ab -n 100 -c 100 <URL>`
